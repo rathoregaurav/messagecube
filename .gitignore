@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+__pycache__
+*.pyc
+venv
+original.csv
+docs/original.csv
+*.env
